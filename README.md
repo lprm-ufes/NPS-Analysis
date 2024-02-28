@@ -3,8 +3,19 @@ Análise de insatisfação usuário telefonia móvel
 
 Ordem de execução dos arquivos:
 
-1 - pre-tratamento.ipynb
+- pre-tratamento.ipynb
 
-2 - caracterizacao.ipynb
+- caracterizacao.ipynb
 
-3 - tratamento-extra_pred
+- tratamento-extra_pred
+
+- pred-1_conj-completo
+
+- pred-2_extremos
+
+- pred-3_extremos-estend
+
+- pred-4_amostras-equi
+
+- pred-5_tres-classes
+
