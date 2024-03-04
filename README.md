@@ -1,7 +1,7 @@
 # NPS-Analysis
 Análise de insatisfação usuário telefonia móvel
 
-<b>O arquivo utilizado contendo a base de dados foi o "NPS_Complete_UFF_2022-07-18_2022-12-31", disponível no Drive da TIM<b>
+<b>O arquivo utilizado contendo a base de dados foi o "NPS_Complete_UFF_2022-07-18_2022-12-31.csv", disponível no Drive da TIM<b>
 
 Ordem de execução dos arquivos:
 
