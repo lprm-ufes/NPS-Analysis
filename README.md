@@ -1,5 +1,6 @@
 # NPS-Analysis
-Análise de insatisfação usuário telefonia móvel
+Análise de insatisfação usuário telefonia móvel. Projeto de Graduação  em Engenharia de Computação apresentado em Dezembro de 2023. 
+
 
 <b>O arquivo utilizado contendo a base de dados foi o "NPS_Complete_UFF_2022-07-18_2022-12-31.csv", disponível no Drive da TIM<b>
 
